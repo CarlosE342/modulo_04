@@ -1,0 +1,9 @@
+1. ¿Qué información muestra cada comando?
+
+uname -a: muestra información detallada del sistema, como el nombre del sistema operativo, el nombre del equipo, la versión del kernel, la arquitectura del procesador y otros datos en mi caso, nombre del equipo: (LenovoLegion) y la arquitectura del procesador (x86_64 / 64 bits).
+
+whoami: muestra el nombre del usuario que está ejecutando la sesión actual. En mi caso mostró "LENOVO LEGION".
+
+2. ¿Por qué es útil al administrar un servidor?
+
+Conocer la información del sistema al administrar un servidor permite identificar el entorno de trabajo, verificar la versión del sistema, comprobar la arquitectura del equipo y saber qué usuario realiza las tareas. Esto es fundamental para realizar configuraciones correctas, solucionar problemas y mantener la estabilidad y seguridad del servidor. Su importancia es clave al gestionar plataformas de participación ciudadana o proyectos comunitarios, ya que controlar la configuración y los accesos protege la información de la comunidad y garantiza que las herramientas sigan siempre disponibles para las personas que las necesitan.

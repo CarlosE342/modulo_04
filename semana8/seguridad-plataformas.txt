@@ -1,0 +1,5 @@
+1. Implementar copias de seguridad automáticas y periódicas (Backups) 
+2. Mantener actualizaciones periódicas del sistema y dependencias
+3. Configurar validación y desinfección de entradas de datos
+4. Establecer moderación comunitaria y reportes de contenido
+5. Configurar un cortafuegos (Firewall) y sistemas de mitigación de ataques
