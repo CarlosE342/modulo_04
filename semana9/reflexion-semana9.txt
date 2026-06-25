@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor en las plataformas comunitarias son pilares
+fundamentales para garantizar la confianza de los ciudadanos en las herramientas digitales.
+Por un lado, la estabilidad asegura que la aplicación esté disponible de forma constante,
+permitiendo que cualquier persona reporte una incidencia en el momento en que ocurre,
+sin sufrir caídas de sistema. Por otro lado, la seguridad protege la integridad de los
+datos y la privacidad de los vecinos, evitando alteraciones maliciosas o filtraciones que
+puedan comprometer a quienes denuncian. Un servidor robusto transforma una aplicación
+en un canal confiable, optimizando la gestión social y asegurando que la tecnología sea
+un puente sólido y eficiente entre la comunidad y las soluciones a sus problemas comunes.
